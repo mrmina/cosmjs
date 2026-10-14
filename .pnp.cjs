@@ -456,19 +456,15 @@ const RAW_RUNTIME_STATE =
     ],\
     [\
       "@protobufjs/eventemitter",\
-      "npm:1.1.0"\
+      "npm:1.1.1"\
     ],\
     [\
       "@protobufjs/fetch",\
-      "npm:1.1.0"\
+      "npm:1.1.1"\
     ],\
     [\
       "@protobufjs/float",\
       "npm:1.0.2"\
-    ],\
-    [\
-      "@protobufjs/inquire",\
-      "npm:1.1.0"\
     ],\
     [\
       "@protobufjs/path",\
@@ -2056,7 +2052,7 @@ const RAW_RUNTIME_STATE =
     ],\
     [\
       "long",\
-      "npm:5.2.4"\
+      "npm:5.3.2"\
     ],\
     [\
       "lru-cache",\
@@ -2380,7 +2376,7 @@ const RAW_RUNTIME_STATE =
     ],\
     [\
       "protobufjs",\
-      "npm:7.5.6"\
+      "npm:7.6.6"\
     ],\
     [\
       "pump",\
@@ -3595,7 +3591,7 @@ const RAW_RUNTIME_STATE =
           ["karma-jasmine-html-reporter", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.6.0"],\
           ["nyc", "npm:17.1.0"],\
           ["prettier", "npm:3.6.2"],\
-          ["protobufjs", "npm:7.5.6"],\
+          ["protobufjs", "npm:7.6.6"],\
           ["ses", "npm:1.13.1"],\
           ["source-map-support", "npm:0.5.21"],\
           ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.28.5"],\
@@ -4456,21 +4452,20 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@protobufjs/eventemitter", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "./.yarn/cache/@protobufjs-eventemitter-npm-1.1.0-029cc7d431-1eb0a75180.zip/node_modules/@protobufjs/eventemitter/",\
+      ["npm:1.1.1", {\
+        "packageLocation": "./.yarn/cache/@protobufjs-eventemitter-npm-1.1.1-dbe0dfc812-8e06193d46.zip/node_modules/@protobufjs/eventemitter/",\
         "packageDependencies": [\
-          ["@protobufjs/eventemitter", "npm:1.1.0"]\
+          ["@protobufjs/eventemitter", "npm:1.1.1"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/fetch", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "./.yarn/cache/@protobufjs-fetch-npm-1.1.0-ca857b7df4-cda6a3dc2d.zip/node_modules/@protobufjs/fetch/",\
+      ["npm:1.1.1", {\
+        "packageLocation": "./.yarn/cache/@protobufjs-fetch-npm-1.1.1-b98d5396a8-a497ff5433.zip/node_modules/@protobufjs/fetch/",\
         "packageDependencies": [\
           ["@protobufjs/aspromise", "npm:1.1.2"],\
-          ["@protobufjs/fetch", "npm:1.1.0"],\
-          ["@protobufjs/inquire", "npm:1.1.0"]\
+          ["@protobufjs/fetch", "npm:1.1.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4480,22 +4475,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/@protobufjs-float-npm-1.0.2-5678f64d08-18f2bdede7.zip/node_modules/@protobufjs/float/",\
         "packageDependencies": [\
           ["@protobufjs/float", "npm:1.0.2"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["@protobufjs/inquire", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "./.yarn/cache/@protobufjs-inquire-npm-1.1.0-3c7759e9ce-64372482ef.zip/node_modules/@protobufjs/inquire/",\
-        "packageDependencies": [\
-          ["@protobufjs/inquire", "npm:1.1.0"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
-      ["npm:1.1.1", {\
-        "packageLocation": "./.yarn/cache/@protobufjs-inquire-npm-1.1.1-1f267bc97f-a638d981ad.zip/node_modules/@protobufjs/inquire/",\
-        "packageDependencies": [\
-          ["@protobufjs/inquire", "npm:1.1.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -10310,10 +10289,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["long", [\
-      ["npm:5.2.4", {\
-        "packageLocation": "./.yarn/cache/long-npm-5.2.4-b96a88098c-0cf819ce2a.zip/node_modules/long/",\
+      ["npm:5.3.2", {\
+        "packageLocation": "./.yarn/cache/long-npm-5.3.2-f80d0f7d39-7130fe1cbc.zip/node_modules/long/",\
         "packageDependencies": [\
-          ["long", "npm:5.2.4"]\
+          ["long", "npm:5.3.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11317,22 +11296,21 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["protobufjs", [\
-      ["npm:7.5.6", {\
-        "packageLocation": "./.yarn/cache/protobufjs-npm-7.5.6-48dcaabf8d-220df6c3cf.zip/node_modules/protobufjs/",\
+      ["npm:7.6.6", {\
+        "packageLocation": "./.yarn/cache/protobufjs-npm-7.6.6-a7cfb0c5d5-6c0dc6d4a2.zip/node_modules/protobufjs/",\
         "packageDependencies": [\
           ["@protobufjs/aspromise", "npm:1.1.2"],\
           ["@protobufjs/base64", "npm:1.1.2"],\
           ["@protobufjs/codegen", "npm:2.0.5"],\
-          ["@protobufjs/eventemitter", "npm:1.1.0"],\
-          ["@protobufjs/fetch", "npm:1.1.0"],\
+          ["@protobufjs/eventemitter", "npm:1.1.1"],\
+          ["@protobufjs/fetch", "npm:1.1.1"],\
           ["@protobufjs/float", "npm:1.0.2"],\
-          ["@protobufjs/inquire", "npm:1.1.1"],\
           ["@protobufjs/path", "npm:1.1.2"],\
           ["@protobufjs/pool", "npm:1.1.0"],\
           ["@protobufjs/utf8", "npm:1.1.1"],\
           ["@types/node", "npm:22.10.6"],\
-          ["long", "npm:5.2.4"],\
-          ["protobufjs", "npm:7.5.6"]\
+          ["long", "npm:5.3.2"],\
+          ["protobufjs", "npm:7.6.6"]\
         ],\
         "linkType": "HARD"\
       }]\
